@@ -469,7 +469,7 @@ Keep briefings actionable and aligned with actual work.
 
 **Work completed / established**
 
-- Daily decision support emphasizes the most important item, three priorities, a现场 check, and work to delegate.
+- Daily decision support emphasizes the most important item, three priorities, an on-site check, and work to delegate.
 - A weekly evidence watch supports clinical and research planning.
 - Uncompleted tasks should remain visible; new suggestions should not bury them.
 
